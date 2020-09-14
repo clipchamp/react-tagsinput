@@ -1,5 +1,5 @@
 {
-  "name": "react-tags-input",
+  "name": "@lorenzopolidori/react-tagsinput",
   "version": "3.20.1",
   "description": "Highly customizable React component for inputing tags. Forked from react-tagsinput.",
   "main": "react-tagsinput.js",
